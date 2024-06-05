@@ -9,7 +9,7 @@ public class JumpGame {
         int n = sc.nextInt();
 
         //  int[] arr = {2,3,1,1,4,3,2,1,0,4,0,0,0,4,2,3,1,6};
-        // int[] arr = {4,0,1,2,3};
+       //  int[] arr = {4,0,1,2,3};
         int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
             System.err.print("Enter the " + (i + 1) + " Element: ");
